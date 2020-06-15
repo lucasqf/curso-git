@@ -7,6 +7,7 @@ namespace ProjetoTeste
         static void Main(string[] args)
         {
             Console.WriteLine("Ola mundo");
+            Console.WriteLine("Como você está?");
         }
     }
 }
